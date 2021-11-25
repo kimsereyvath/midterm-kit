@@ -51,10 +51,6 @@ footer {
     background-color: rgb(49, 45, 45);
 }
 
-footer > div{
-    float: left;
-}
-
 .address{
     color: white;
 }
